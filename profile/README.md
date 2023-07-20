@@ -1,5 +1,7 @@
 ## Praison AI: AI Agency 👋
 
+🙋‍♀️ A short introduction - AI Automation, AI Chat Bot, AI Model deployment, AI Fine tuning, AI Data Analysis
+
 <!--
 
 **Here are some ideas to get you started:**
